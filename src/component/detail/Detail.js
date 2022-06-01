@@ -26,10 +26,11 @@ export default function Detail() {
             width:400px;
             margin-left:290px;
             button{
-                width:100px;
+                width:150px;
                 padding:8px;
                 border-radius:10px;
                 outline:none;
+                text-transform:uppercase;
             }
         }
     }

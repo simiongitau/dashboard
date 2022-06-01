@@ -19,7 +19,7 @@ export default function Side() {
         margin-bottom:20px;
         border-radius:10px;
         cursor:pointer;
-        font-size:12px;
+        font-size:15px;
         font-weight:100;
         border:none;
         outline:none;

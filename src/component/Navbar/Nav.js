@@ -3,7 +3,7 @@ import styled from 'styled-components'
 export default function Nav() {
   const Main=styled.div`
   height:100px;
-  width:100%;
+  width:100%;;
   background-color:rgba(248, 198, 241, 0.651);
   display:flex;
   justify-content:space-between;

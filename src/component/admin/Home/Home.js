@@ -1,13 +1,13 @@
 import React from 'react'
 import styled from "styled-components";
-import Footer from '../Footer/Footer';
+import Footer from '../../footer/Footer'
 import { Link } from 'react-router-dom';
 import Analysis from '../saleAnalysis/Analysis';
 export default function Home() {
     const Wrapper=styled.div`
     display:flex;
     background-color:rgba(70, 64, 64, 0.342);
-    height:70vh;
+    height:65vh;
     `;
     const Right=styled.div`
 flex:10;

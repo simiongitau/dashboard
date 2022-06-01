@@ -36,7 +36,7 @@ export default function Footer() {
         <div>
         <span><i className="bi bi-telephone-fill" style={{paddingRight:'3px'}}></i><span>telephone no:</span> <span ><i>0706692468</i></span></span> 
         <span><i className="bi bi-envelope" style={{paddingRight:'3px'}}></i><span>email:</span> <span> <i>eldoifo@gmail.com </i></span></span> 
-        <span><i className="bi bi-mailbox" style={{paddingRight:'3px'}}></i><span>poster address:</span> <span style={{paddingLeft:'3px'}}><i>p.o box 10003 nairobi</i></span></span> 
+        <span><i className="bi bi-mailbox" style={{paddingRight:'3px'}}></i><span>poster address:</span> <span style={{paddingLeft:'3px'}}><i>p.o box 1060 eldoret.</i></span></span> 
         {/* <span><i classNameName="bi bi-facebook" style={{paddingRight:'3px'}}></i><span>yy</span> <span style={{paddingLeft:'3px'}}><i className="bi bi-facebook"></i></span></span>  */}
         </div>
       </Container>

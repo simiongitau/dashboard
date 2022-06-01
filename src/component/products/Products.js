@@ -48,6 +48,7 @@ img{
     height:40px;
     border:none;
     background-color:rgb(228, 245, 180);
+    text-transform:uppercase;
   }
   `;
   console.log(product)
